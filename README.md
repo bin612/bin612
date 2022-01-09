@@ -1,5 +1,5 @@
 ### 안녕하세요
-### Java를 공부하고 있는 사람입니다.😄
+Java를 공부하고 있는 사람입니다.😄
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin612&show_icons=true&theme=dracula)
 
