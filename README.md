@@ -3,7 +3,7 @@ Java를 공부하고 있습니다. 😄 <br>
 현재 ERP 유지보수 일을 하고 있습니다.
 
 경력
-2020 ~ 2021 Web agency 
+2020 ~ 2021 Web agency <br>
 2021 ~ ing  SI Company
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin612&show_icons=true&theme=dracula)
