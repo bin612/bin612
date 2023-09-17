@@ -7,7 +7,7 @@ Java,Spring 공부하고 있습니다. 😄 <br>
 2021 ~ ing  SI Company
 
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin612&show_icons=true&theme=dracula)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin612&show_icons=true&theme=dracula)
 
 <!--
 **bin612/bin612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
